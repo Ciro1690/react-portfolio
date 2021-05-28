@@ -1,0 +1,13 @@
+.navbar-dark .navbar-brand {
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 22px
+}
+
+.nav-item, .navbar-brand {
+  cursor: pointer;
+}

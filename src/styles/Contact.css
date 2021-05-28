@@ -1,0 +1,13 @@
+.contact-ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.contact-ul li {
+    margin: 20px;
+    font-size: 18px;
+}
