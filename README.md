@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Ciro Griffiths
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a professional portfolio page for Ciro Griffiths.
+
+### Functionality
+
+The portfolio website contains a list of projects, skills, education, contact information and an about me section. It is developed using React and hosted on Heroku.
 
 ## Available Scripts
 
