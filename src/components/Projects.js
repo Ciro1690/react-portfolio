@@ -45,8 +45,8 @@ const Projects = () => {
                     <h1>Taco Truck Locator</h1>
                     <h5>Map Navigation Application</h5>
                     <h5>Created with Javascript, React & API Integration</h5>
-                    <a class="mr-2" href="https://github.com/Ciro1690/Sundialpantry" target="blank">Github</a><br></br>
-                    <a href="https://sundialpantry.herokuapp.com/" target="blank">Live Site</a>
+                    <a class="mr-2" href="https://github.com/Ciro1690/taco-truck-locator" target="blank">Github</a><br></br>
+                    <a href="https://taco-truck-locator.herokuapp.com/" target="blank">Live Site</a>
                 </div>
             </div>
         </div>
